@@ -1,0 +1,1 @@
+# <b>IA generativa para linguagem (Large Language Model) [24E2_3]</b> 
